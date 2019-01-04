@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "chalk": "^2.3.0",
+    "faker": "^4.1.0",
+    "jasmine": "^3.3.1",
+    "jest": "^22.0.0",
+    "prettier": "^1.9.2",
+    "puppeteer": "^0.13.0",
+    "rimraf": "^2.6.2"
+  }
+}
